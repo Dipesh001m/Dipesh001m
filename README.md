@@ -90,6 +90,7 @@ I'm a results-driven **Cloud & DevOps Engineer** with strong experience in desig
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipesh001m&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipesh001m&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dipesh001m&show_icons=true&theme=tokyonight&hide_border=true" alt="Dipesh's GitHub Stats" />
 </p>
 ---
 
