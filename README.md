@@ -1,6 +1,6 @@
 <h1 align="center">Dipesh Mandal</h1>
 <p align="center">
-  <b>Cloud & DevOps Engineer | AWS Certified | Infrastructure Automation Specialist</b><br>
+  <b>Cloud & DevOps Engineer</b><br>
   <a href="mailto:dipesh1357m@gmail.com">dipesh1357m@gmail.com</a>
 </p>
 
