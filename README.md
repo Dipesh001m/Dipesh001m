@@ -85,4 +85,12 @@ I'm a results-driven **Cloud & DevOps Engineer** with strong experience in desig
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipesh001m&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 _📫 Want to collaborate on a cloud-native project or DevOps tooling? Let’s connect!_
