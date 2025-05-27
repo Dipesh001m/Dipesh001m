@@ -1,85 +1,83 @@
-<h1 align="center">🌩️ Dipesh Mandal</h1>
-
+<h1 align="center">Dipesh Mandal</h1>
 <p align="center">
-  <b>Cloud & DevOps Engineer | AWS Certified | Automation Enthusiast</b><br>
-  Jaipur, India • <a href="mailto:dipesh1357m@gmail.com">dipesh1357m@gmail.com</a>
+  <b>Cloud & DevOps Engineer | AWS Certified | Infrastructure Automation Specialist</b><br>
+  <a href="mailto:dipesh1357m@gmail.com">dipesh1357m@gmail.com</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dipesh001m"><img src="https://img.shields.io/badge/GitHub-Dipesh001m-black?logo=github" /></a>
-  <a href="https://www.linkedin.com/in/dipesh777/"><img src="https://img.shields.io/badge/LinkedIn-dipesh777-blue?logo=linkedin" /></a>
-  <a href="https://dipeshm.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-dipeshm.netlify.app-brightgreen" /></a>
+  <a href="https://github.com/Dipesh001m"><img src="https://img.shields.io/badge/GitHub-Dipesh001m-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/dipesh777/"><img src="https://img.shields.io/badge/LinkedIn-dipesh777-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://dipeshm.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-28a745?style=for-the-badge&logo=netlify" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a results-driven **Cloud & DevOps Engineer** with strong experience in designing and deploying scalable infrastructures, building CI/CD pipelines, and automating cloud-native solutions. I love solving real-world problems through scripting, containerization, and continuous delivery.
+I'm a passionate **Cloud & DevOps Engineer** with a strong foundation in infrastructure as code (IaC), container orchestration, automation scripting, and CI/CD pipelines. I enjoy building scalable cloud environments and delivering solutions that improve operational efficiency, system reliability, and delivery speed.
 
----
-
-## 🔧 Tech Toolbox
-
-- **Cloud:** AWS, Azure
-- **Containers & Orchestration:** Docker, Kubernetes (EKS)
-- **CI/CD:** Jenkins, GitHub Actions, ArgoCD
-- **IaC & Automation:** Terraform, Ansible, Shell, Boto3
-- **Monitoring & Security:** Prometheus, Grafana, Trivy, SonarQube, CloudWatch
-- **Languages:** Python, Bash
-- **Web Servers:** Apache, Nginx
-- **Databases:** MySQL, MongoDB
-- **OS & Tools:** Ubuntu, CentOS, RHEL, Git, Jira
+My professional experience and academic projects reflect a hands-on, problem-solving approach to deploying and managing cloud-native applications with modern DevOps tools and best practices.
 
 ---
 
-## 📂 Featured Projects
+## ⚙️ Core Competencies
 
-### 🔸 [3-Tier Cloud App Architecture](https://github.com/Dipesh001m/3tier-cloud-app)
-> Deployed a scalable and fault-tolerant 3-tier architecture using VPC, EC2, RDS, S3, Route 53, and ACM on AWS.
-
-### 🔸 [Zomato DevOps Pipeline](https://github.com/Dipesh001m/DevOps-Zomato-Project)
-> Built a CI/CD pipeline with Jenkins, Docker, ArgoCD, SonarQube, and deployed 15+ microservices to EKS with 99% success rate.
-
-### 🔸 [Monitoring App](https://github.com/Dipesh001m/Monitoring-App)
-> Created a Flask-based system monitoring app with Docker, Boto3, and deployed it on EKS using ECR and Helm.
+- **Cloud Platforms:** AWS (EKS, EC2, S3, RDS, Route53), Azure
+- **DevOps & Automation:** GitHub Actions, Jenkins, ArgoCD, Terraform, Ansible, Shell Scripting, Boto3
+- **Containers & Orchestration:** Docker, Kubernetes (EKS), Helm
+- **Monitoring & Security:** Prometheus, Grafana, AWS CloudWatch, SonarQube, Trivy, OWASP
+- **Programming & Scripting:** Python, Bash
+- **Web & Infra:** Apache, Nginx, SQL, MongoDB, Linux (Ubuntu, RHEL, CentOS)
+- **Tools:** Git, GitHub, Jira, Maven
 
 ---
 
-## 🧠 Experience
+## 🧪 Projects
 
-**💼 DevOps Cum System Admin Intern**  
-**Orion Infosolutions, Jaipur** | *Feb 2025 – Present*
+### 🔹 [3-Tier AWS Architecture Deployment](https://github.com/Dipesh001m/3tier-cloud-app)
+Designed and deployed a secure, scalable, and fault-tolerant 3-tier architecture on AWS using EC2, RDS (Multi-AZ), S3, VPC, Route53, and SSL via ACM.
 
-- Deployed node applications on AWS with multi-AZ architecture and load balancing.
-- Reduced AWS costs by 30% by optimizing resource usage.
-- Set up CI/CD with GitHub Actions, Docker, and Kubernetes.
-- Implemented proactive monitoring using Grafana and CloudWatch.
-- Automated backups and log cleanups via shell scripts.
+### 🔹 [End-to-End DevOps Pipeline – Zomato App](https://github.com/Dipesh001m/DevOps-Zomato-Project)
+Implemented a CI/CD pipeline integrating Jenkins, Docker, ArgoCD, SonarQube, Trivy, and EKS. Achieved 99% deployment success for 15+ containerized microservices.
+
+### 🔹 [Cloud-Native Monitoring App](https://github.com/Dipesh001m/Monitoring-App)
+Developed a Flask-based system monitoring tool to track CPU and memory usage. Automated deployment using Docker, Boto3, AWS ECR, and EKS.
+
+---
+
+## 💼 Experience
+
+**DevOps & System Admin Intern**  
+*Orion Infosolutions, Jaipur — Feb 2025 – Present*
+
+- Deployed Node.js applications on AWS with multi-AZ architecture and ALB.
+- Reduced AWS infrastructure costs by 30% through optimization and automation.
+- Automated deployments using GitHub Actions, Docker, and Kubernetes.
+- Implemented infrastructure monitoring with Grafana and AWS CloudWatch.
+- Scripted automated system backups and log cleanup routines.
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech – Computer Science**, Rajdhani Engineering College, Jaipur (2021–2025)  
-- **Diploma – Computer Science**, Shekhawati Group of Institutions, Sikar (2018–2021)
+**Bachelor of Technology – Computer Science**  
+Rajdhani Engineering College, Jaipur (2021 – 2025) – *CGPA: 7.89*
+
+**Diploma – Computer Science**  
+Shekhawati Group of Institutions, Sikar (2018 – 2021) – *CGPA: 7.45*
 
 ---
 
-## 🏅 Certifications
+## 🏆 Key Achievements
 
-- ✅ AWS Certified Solutions Architect – Associate  
-- ✅ AWS Certified Cloud Practitioner  
-
----
-
-## ✨ Achievements
-
-- 🚀 Deployed Kubernetes on AWS EKS with 30% reduced downtime  
-- 💰 Migrated on-prem to AWS saving 25% in infra costs  
-- ⚙️ Optimized CI/CD workflows, improving release cycles by 30%
+- Deployed and maintained Kubernetes clusters on AWS EKS, reducing application downtime by 30%.
+- Migrated on-prem infrastructure to AWS, improving scalability and cutting costs by 25%.
+- Enhanced CI/CD efficiency, leading to 30% faster deployment cycles.
 
 ---
 
-_📫 Want to collaborate on a cloud-native project or DevOps tooling? Let’s connect!_
+## 🤝 Let’s Connect
 
+I’m always open to connecting with DevOps enthusiasts, hiring managers, and collaborators. Feel free to check out my [portfolio](https://dipeshm.netlify.app/) or drop a message on [LinkedIn](https://www.linkedin.com/in/dipesh777/).
+
+---
