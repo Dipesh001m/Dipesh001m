@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/Dipesh001m"><img src="https://img.shields.io/badge/GitHub-Dipesh001m-black?logo=github&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/dipesh777/"><img src="https://img.shields.io/badge/LinkedIn-dipesh777-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://dipeshm.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-dipeshm.netlify.app-brightgreen?style=for-the-badge&logo=netlify" /></a>
+  <a href="https://dipeshm.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-itsdipesh.netlify.app-brightgreen?style=for-the-badge&logo=netlify" /></a>
 </p>
 
 ---
